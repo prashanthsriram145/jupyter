@@ -1,0 +1,3 @@
+FILENAME,ENTITY_TYPE,STATUS,ERROR_MESSAGE
+transportInstruction_4.json,transportInstruction,INGESTION_FAILED,Error parsing AVRO: not an AVRO file (bad magic)  If you would like to continue loading when an error is encountered use other values such as SKIP_FILE or CONTINUE for the ON_ERROR option. For more information on loading options please run in
+transportInstruction_4.json,transportInstruction,DATA_INGESTION_STARTED,null
